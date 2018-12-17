@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:     VideoPress Local Import
- * Plugin URI:      PLUGIN SITE HERE
+ * Plugin URI:      https://github.com/Automattic/videopress-local-import
  * Description:     Move VideoPress shortcodes to local files
  * Author:          Automattic
  * Author URI:      https://automattic.com
