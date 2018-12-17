@@ -304,6 +304,7 @@ class VideoPress_Local_Import {
 			}
 
 			// Open a resource for writing the file, write the data, and then close the resource.
+			// @todo Need to update this at somepoint to use WP_Filesystem.
 			$resource = fopen( $file_path, 'w' );
 			fwrite( $resource, $file['body'] );
 			fclose( $resource );
