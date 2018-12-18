@@ -1,11 +1,12 @@
 # VideoPress Local Import #
-**Contributors:** automattic, whyisjake
-**Tags:** video, import
-**Requires at least:** 4.5
-**Tested up to:** 5.0.1
-**Stable tag:** 0.5.0
-**License:** GPLv2 or later
-**License URI:** https://www.gnu.org/licenses/gpl-2.0.html
+
+* **Contributors:** automattic, whyisjake
+* **Tags:** video, import
+* **Requires at least:** 4.5
+* **Tested up to:** 5.0.1
+* **Stable tag:** 0.5.0
+* **License:** GPLv2 or later
+* **License URI:** https://www.gnu.org/licenses/gpl-2.0.html
 
 Move videos from VideoPress to a self-hosted WordPress install.
 
