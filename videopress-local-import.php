@@ -153,7 +153,7 @@ class VideoPressLocal {
 	 * @return object
 	 */
 	public function save_video() {
-		return new VideoPressLocal_Import( $this->video );
+		return new VideoPress_Local_Import( $this->video );
 	}
 }
 /**
